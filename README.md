@@ -110,6 +110,35 @@ ORS_API_KEY=your_actual_api_key_here
 
 ## Running the Application
 
+### Option 1: Docker (Recommended for Production)
+
+**Quick Start:**
+
+1. Configure environment:
+```bash
+cp .env.example .env
+# Edit .env and add your ORS_API_KEY
+```
+
+2. Build and run:
+```bash
+docker-compose up --build
+```
+
+3. Access the application:
+   - **Frontend**: http://localhost:3000
+   - **Backend API**: http://localhost:8000
+   - **API Docs**: http://localhost:8000/docs
+
+**Docker Commands:**
+- Start: `docker-compose up -d`
+- Stop: `docker-compose down`
+- View logs: `docker-compose logs -f`
+
+📘 **Full Docker documentation**: See [DOCKER.md](DOCKER.md) for detailed setup, troubleshooting, and architecture.
+
+### Option 2: Local Development
+
 ### Start Backend
 
 ```bash

@@ -169,7 +169,8 @@ function App() {
   const fetchPois = async () => {
     setLoading(true)
     try {
-      const res = await axios.get(`http://localhost:8000/search`, {
+      const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000'
+      const res = await axios.get(`${API_URL}/search`, {
         params: { lat: location.lat, lon: location.lon, type, radius, query: searchQuery, mode: searchMode, k: kValue }
       })
       if (res.data && Array.isArray(res.data.results)) {
@@ -193,7 +194,8 @@ function App() {
 
     try {
       console.log('Routing from:', location.lat, location.lon, 'to:', poi.lat, poi.lon)
-      const res = await axios.get(`http://localhost:8000/route`, {
+      const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000'
+      const res = await axios.get(`${API_URL}/route`, {
         params: {
           start_lat: location.lat,
           start_lon: location.lon,

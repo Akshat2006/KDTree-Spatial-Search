@@ -90,6 +90,9 @@ lerna-debug.log*
 .env.test.local
 .env.production.local
 
+# Keep .env.example for reference
+!.env.example
+
 # Testing
 coverage/
 *.cover
