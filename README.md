@@ -268,6 +268,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - OpenStreetMap for map tiles
 - Leaflet.js for interactive maps
 
-## Contact
-
-Project Link: [https://github.com/yourusername/smartpoi-finder](https://github.com/yourusername/smartpoi-finder)
