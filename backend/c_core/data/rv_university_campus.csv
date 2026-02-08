@@ -1,0 +1,112 @@
+name,category,latitude,longitude,eco_score
+# RV University Campus POIs - Calibrated from visible map
+# Reference: Campus center ~12.923365, 77.501078
+# Adjusted based on visible building positions on OpenStreetMap overlay
+
+# Academic Buildings - Core Campus (visible on map)
+CS LAB 9 & 10,Education,12.923400,77.500850,85
+Central Computing Hub,Education,12.923200,77.500850,88
+New Library,Education,12.923250,77.501400,90
+Aerospace and Information Science,Education,12.923450,77.501250,84
+Telecommunication Department,Education,12.923700,77.501100,83
+Mechanical Engineering Block,Education,12.923050,77.500550,82
+Civil Engineering Block,Education,12.923750,77.501150,82
+Electronics & Communication Block,Education,12.923650,77.501000,83
+Information Science Block,Education,12.923550,77.500650,84
+Architecture Block,Education,12.922750,77.500950,81
+Biotechnology Block,Education,12.922450,77.500350,80
+Chemical Engineering Block,Education,12.922950,77.500750,81
+Aerospace Workshop,Education,12.923350,77.501500,82
+Biotech Quadrangle,Education,12.922500,77.500200,79
+AIML Block,Education,12.922400,77.500100,83
+
+# Libraries and Learning Centers
+Old Library,Education,12.923050,77.500850,85
+Research Center,Education,12.923650,77.501250,87
+Innovation Center,Education,12.923450,77.500800,88
+
+# Administrative Buildings
+Main Administrative Block,Education,12.923850,77.500950,75
+RVCE Administrative Office,Education,12.923200,77.500300,72
+Admissions Office,Education,12.923800,77.500900,72
+Examination Block,Education,12.923150,77.500450,70
+Principal's Office,Education,12.923750,77.501000,73
+
+# Hostels - Boys
+Sir M. Visvesvaraya Hostel,Accommodation,12.922250,77.501150,78
+Cauvery Boys Hostel,Accommodation,12.922350,77.501350,78
+Cauvery Annex Hostel,Accommodation,12.922450,77.501250,77
+Krishna Hostel,Accommodation,12.924000,77.501000,77
+
+# Hostels - Girls
+Chamundi Girls Hostel,Accommodation,12.922150,77.500750,79
+Kaveri Girls Hostel,Education,12.922250,77.500550,78
+Cauvery Block,Accommodation,12.924200,77.501300,78
+
+# Sports and Recreation
+Main Sports Ground,Recreation,12.922550,77.501550,92
+Basketball Courts,Recreation,12.922650,77.501450,90
+Volleyball Courts,Recreation,12.922750,77.501350,89
+Badminton Hall (Indoor),Recreation,12.922850,77.501150,88
+Gymnasium,Recreation,12.922700,77.500550,85
+Swimming Pool,Recreation,12.922450,77.501050,87
+Tennis Courts,Recreation,12.922550,77.501250,88
+
+# Food and Dining
+Big Mingo's Food Court,Food,12.923150,77.500750,80
+Main Canteen,Food,12.923150,77.500650,78
+Mini Food Joint,Food,12.923050,77.500950,76
+Hostel Mess 1,Food,12.922350,77.501200,75
+Hostel Mess 2,Food,12.922250,77.500650,75
+Krikakalpa Cafe,Food,12.923550,77.500450,77
+
+# Medical and Health
+Health Center,Healthcare,12.922950,77.500550,88
+Medical Room,Healthcare,12.922850,77.500600,85
+Ambulance Station,Healthcare,12.923000,77.500530,90
+
+# Banking and Services
+Kotak Mahindra Bank,Finance,12.923550,77.500550,70
+ATM 1,Finance,12.923500,77.500600,68
+ATM 2,Finance,12.923050,77.500750,68
+Stationery Shop,Shopping,12.923350,77.500700,72
+Xerox Center,Shopping,12.923300,77.500750,71
+
+# Transport and Parking
+Main Gate,Transport,12.924050,77.500750,65
+Pattanagere Metro Station,Transport,12.924415,77.498256,95
+Bus Stop - Main Entrance,Transport,12.924000,77.500700,88
+Parking Area 1,Transport,12.923650,77.500450,60
+Parking Area 2,Transport,12.922650,77.500950,60
+Two-Wheeler Parking,Transport,12.923450,77.500550,62
+
+# Auditoriums and Halls
+Main Auditorium,Entertainment,12.923350,77.500950,82
+Seminar Hall 1,Education,12.923250,77.501050,80
+Seminar Hall 2,Education,12.923200,77.500900,80
+Conference Hall,Education,12.923600,77.501000,81
+
+# Other Facilities
+Central Workshop,Education,12.922750,77.500650,75
+Innovation Lab,Education,12.923400,77.500800,88
+Maker Space,Education,12.923350,77.500850,87
+Incubation Center,Education,12.923500,77.501100,86
+Solar Panel Array,Renewable Energy,12.922550,77.500450,98
+Rainwater Harvesting Unit,Renewable Energy,12.922650,77.500550,96
+Waste Segregation Center,Waste Management,12.922450,77.500450,94
+Composting Unit,Waste Management,12.922500,77.500500,93
+EV Charging Station,Transport,12.923600,77.500500,97
+Bicycle Stand 1,Transport,12.923500,77.500650,95
+Bicycle Stand 2,Transport,12.923150,77.500800,95
+Bicycle Stand 3,Transport,12.922750,77.501050,95
+
+# Temples and Religious Places
+Ganesh Temple,Religious,12.924100,77.501150,85
+Krishna Temple,Religious,12.923950,77.501050,85
+
+# Additional Departments (visible on map)
+Electrical and Electronics Department,Education,12.923850,77.500850,83
+Aircraft Model Department,Education,12.923950,77.500600,81
+Cognitive Centre,Education,12.924150,77.501250,86
+RVU A Block,Education,12.923550,77.501350,82
+Apple Office Solutions,Shopping,12.922950,77.500950,70

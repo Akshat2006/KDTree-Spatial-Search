@@ -1,0 +1,1042 @@
+id,name,type,lat,lon
+1,Bangalore Blaze Girls High School,school,12.958235,77.517911
+2,Post Office,post_office,12.952715,77.513839
+3,University Cafeteria,cafe,12.943302,77.505582
+4,S K Hospital  Bengaluru Urban,hospital,12.957572,77.518444
+5,Canteen NLSIU,restaurant,12.955298,77.51712
+6,Chandana Hospital,hospital,12.957989,77.511439
+7,Pizza Hut,restaurant,12.958429,77.519231
+8,Union Bank of India,bank,12.955779,77.518277
+9,Air Cafe,cafe,12.952924,77.516244
+10,Fortis Hospital  Nagarbhavi,hospital,12.959603,77.511248
+11,Sunrise Cafe,cafe,12.952428,77.515372
+12,Swamy Hospital,hospital,12.855063,77.664273
+13,Axis Bank,atm,12.844354,77.660307
+14,GE,office,12.843824,77.66111
+15,ICICI Bank,atm,12.843731,77.662301
+16,Indian Bank,atm,12.845422,77.663915
+17,Ramakrishna Hospital,hospital,12.850065,77.662471
+18,ICICI Bank,bank,12.850013,77.662734
+19,Flextronics,office,12.840958,77.66365
+20,State Bank of India,bank,12.845277,77.664912
+21,Pallavi Grand,restaurant,12.848258,77.662532
+22,Apollo Clinic,hospital,12.851725,77.668147
+23,Cafe Coffee Day,cafe,12.848202,77.662512
+24,HDFC Bank,atm,12.844955,77.665653
+25,Cafe Coffee Day,cafe,12.84058,77.663786
+26,Pizza Hut,restaurant,12.840509,77.663663
+27,Canara Bank,bank,12.840307,77.663789
+28,Chung Wah,restaurant,12.840138,77.663811
+29,Emperor,restaurant,12.840181,77.6638
+30,Bank of India,atm,12.840353,77.66377
+31,Indian Bank,bank,12.849847,77.66282
+32,Infosys Parking Lot,parking,12.848752,77.662169
+33,CGI,office,12.841347,77.667015
+34,Car Parking,parking,12.841727,77.668032
+35,onMobile,office,12.84116,77.665821
+36,ICICI Bank,atm,12.845453,77.66259
+37,ICICI Bank,atm,12.852382,77.66769
+38,East,restaurant,12.850432,77.66014
+39,Vandy Restaurant,restaurant,12.844029,77.660865
+40,Hyderabadi Spice,restaurant,12.840533,77.663796
+41,Loyal World Retail Mart,shop_supermarket,12.889939,77.673377
+42,Tessolve,office,12.845528,77.675867
+43,New Punjabi Foodcorner,restaurant,12.847595,77.677787
+44,Biriyani Paradise,restaurant,12.847884,77.663558
+45,Royal South Restaurent Electronic City,restaurant,12.849921,77.664001
+46,Suchi Sagar Electronic City,restaurant,12.855845,77.665001
+47,Fresh meanu,restaurant,12.85326,77.666131
+48,Varvathi Electronic City,restaurant,12.8487,77.68041
+49,Soul Indian Speciality Svenska,restaurant,12.840164,77.660633
+50,Sky Lounge Bar,restaurant,12.842193,77.664758
+51,Hyderabadi Spice Electronic City,restaurant,12.840053,77.664377
+52,Pot Biryani Electronic City,restaurant,12.840164,77.660633
+53,Seasons Electronic City,restaurant,12.847592,77.671549
+54,The Oterra,restaurant,12.850095,77.660279
+55,Spring Leaf Health Care Pvt Ltd,hospital,12.852673,77.667646
+56,Oxford Hospital,hospital,12.858418,77.665335
+57,Springleaf Hospital,hospital,12.853228,77.665351
+58,Andhra Bank,bank,12.85255,77.667634
+59,State Bank of India,bank,12.845242,77.665361
+60,IDBI Bank,bank,12.840408,77.662705
+61,Amphenol Interconnect Pvt. Ltd.,office,12.841331,77.662315
+62,Infosys Office,office,12.846179,77.677644
+63,Tata Consultancy Services,office,12.847549,77.679127
+64,Gold Hill Supreme Park,office,12.846473,77.677649
+65,Moog Controls India Private Limited,office,12.846329,77.679328
+66,Silkworm Seed Technology Laboratory,office,12.881251,77.710684
+67,Calcutta Cabin,restaurant,12.844677,77.665606
+68,Reliance Fresh,shop_supermarket,12.899679,77.675316
+69,DMart,shop_supermarket,12.842928,77.674071
+70,Udupi Upahara,restaurant,12.84685,77.672208
+71,Salt N Pepper,restaurant,12.848673,77.67046
+72,Infosys Foundation Konappana Agrahara,station,12.846413,77.671166
+73,Electronic City,station,12.856505,77.663523
+74,HDFC Bank,atm,12.848761,77.672479
+75,State Bank of India,atm,12.848751,77.672498
+76,ICICI Bank,atm,12.848743,77.672516
+77,Karur Vysya Bank,atm,12.848749,77.672538
+78,Thalassery,restaurant,12.848871,77.672733
+79,Andhra Spicy,restaurant,12.849423,77.673299
+80,Thalassery Grand Cafe,restaurant,12.849331,77.673374
+81,Malabar,cafe,12.847903,77.671611
+82,Malabar,restaurant,12.847879,77.671628
+83,Ruchi Sagar,restaurant,12.847686,77.671371
+84,Bismillah Dum Biryani,restaurant,12.847752,77.671297
+85,Medi Assist,office,12.848172,77.664214
+86,GHPS Doddanagamangala,school,12.862163,77.675014
+87,GHPS Parappana Agrahara Centra,school,12.881454,77.667446
+88,GHPS Govindashetty Palya,school,12.853935,77.671713
+89,apollo medical shop,hospital,12.843785,77.665927
+90,St Gasper School,school,12.862552,77.678306
+91,New Shanthiniketan Eng Convent,school,12.877554,77.67009
+92,Infont Pub Sch,school,12.852346,77.670954
+93,Shams LPS Govindashetty Palya,school,12.855269,77.670168
+94,Silicon Valley School  Konappana Agrahara,school,12.850702,77.670972
+95,Arunodaya Vidya Samsthe  Konappana Agrahara,school,12.851734,77.668652
+96,BES Naganathapura,school,12.871773,77.671414
+97,Sahana Vidya Mandira,school,12.871706,77.66871
+98,Biocon,office,12.846617,77.675625
+99,Asti Infotech pvt. Ltd.,office,12.841726,77.667025
+100,Anugrahaa Hospital,hospital,12.854895,77.668116
+101,Ramakrishna Hospital,hospital,12.854121,77.662481
+102,Springleaf Hospital,hospital,12.852699,77.667688
+103,carX,office,12.840177,77.6639
+104,Birbal Biryani,restaurant,12.894766,77.661599
+105,Gopal Jee Cafe,cafe,12.894728,77.661448
+106,Geronics Pharmacy,pharmacy,12.894732,77.661548
+107,ADTT Electronic City,office,12.848493,77.691709
+108,Tea Treat,cafe,12.842685,77.675211
+109,Rotana Cafe,restaurant,12.899593,77.675563
+110,Indian Dum Biriyani,restaurant,12.899338,77.675564
+111,Ambur Dum Biriyani,restaurant,12.899843,77.675559
+112,Chai Kada,cafe,12.898535,77.675395
+113,Pita Pocket Factory,restaurant,12.898975,77.676156
+114,Sri Vishnu Grand,restaurant,12.875665,77.670706
+115,Siemens,office,12.848969,77.676744
+116,PVR Inox Cinemas,cinema,12.841575,77.676831
+117,Lulu Hypermarket,shop_supermarket,12.841426,77.676605
+118,Continental Automotive Components (India) Private Limited,office,12.840716,77.677365
+119,Continental Automotives,office,12.845617,77.67757
+120,Shiksha Infotech pvt ltd,office,12.841685,77.667091
+121,Axis Bank,bank,12.854392,77.666187
+122,Federal Bank,bank,12.898723,77.715582
+123,Electronic City Metro Parking,motorcycle_parking,12.856545,77.663566
+124,Konappana Agrahara Metro Parking,motorcycle_parking,12.846446,77.671233
+125,Sukh Sagar,restaurant,12.974182,77.575374
+126,Sri Raghavendra,restaurant,12.97785,77.572206
+127,Canara Bank,atm,12.977709,77.572284
+128,Anand Sagar Punjabi Dhaba,restaurant,12.976007,77.576358
+129,Hallimane,restaurant,12.995526,77.57177
+130,Sampige Theatre,cinema,12.993121,77.571073
+131,State Bank of India,bank,12.973021,77.580483
+132,Bank of India,bank,12.973844,77.578582
+133,Indian Bank,bank,12.973729,77.578957
+134,LIC,office,12.992597,77.571252
+135,State Bank of India,bank,12.999058,77.56952
+136,ICICI Bank,bank,12.996974,77.567863
+137,Vishnu Sagar,restaurant,12.990124,77.572299
+138,ICICI Bank,atm,12.994098,77.571267
+139,Corporation Bank,bank,12.993331,77.57187
+140,Rasa,restaurant,12.994359,77.571176
+141,Canara Bank,atm,12.985511,77.588999
+142,Nisarga,restaurant,12.970401,77.587425
+143,Department of Youth Services and Sports,office,12.972873,77.587467
+144,BESCOM,office,12.975675,77.588106
+145,Karnataka State Fisheries,office,12.975418,77.588436
+146,Corporation Bank,bank,12.972303,77.58636
+147,Deccan school,school,12.992167,77.568389
+148,Anganavadi,school,12.991587,77.568421
+149,Parkview Hotel,restaurant,12.97585,77.589103
+150,Karnataka Pensioners Office,office,12.975944,77.588889
+151,Bangalore One,office,12.979681,77.587058
+152,Department of Land Survey,office,12.97489,77.587538
+153,Sri Vinayaka Juice & Chats Center,cafe,12.974289,77.577895
+154,Hotel Madhuvan,restaurant,12.97038,77.580039
+155,Karnataka Power Transmission Corporation Limited,office,12.972897,77.582613
+156,State Bank of India,atm,12.973329,77.582459
+157,Sana Di Ge,restaurant,12.985391,77.579506
+158,Coffee Day,cafe,12.973653,77.580195
+159,Hare Krishna Pure Veg Restaurant,restaurant,12.97727,77.570304
+160,Balaji Restaurant,restaurant,12.977248,77.570421
+161,Canara Bank,atm,12.978473,77.569676
+162,Fresh Cane,cafe,12.97345,77.575119
+163,Mallige Medical Centre,hospital,12.985247,77.580385
+164,Axis Bank,bank,12.980905,77.575439
+165,Hotel Janardhana,restaurant,12.985625,77.578889
+166,Gandhi Nagar High School,school,12.991083,77.578905
+167,Government Maternity Hospital,hospital,12.99886,77.581742
+168,Kabab Studio,restaurant,12.985357,77.579269
+169,Shree Sagar CTR,restaurant,12.998257,77.569495
+170,NGMA Cafe,cafe,12.989781,77.588006
+171,Aspect Technology Center,office,12.993303,77.589311
+172,Sai Shakti,restaurant,12.999295,77.568061
+173,Maharaja Complex Multi Storey Parking,parking,12.973397,77.578107
+174,Swathi Deluxe,restaurant,12.976621,77.57255
+175,State Bank of India,bank,12.995018,77.571642
+176,Baptist,hospital,12.997091,77.571977
+177,ABB Corporate Research Center,office,12.983166,77.585623
+178,Trigent Software,office,12.983344,77.585482
+179,Karnataka Udyog Mitra,office,12.982984,77.585605
+180,Universal Electronics,office,12.982627,77.585417
+181,Bharat Seva Dal,school,12.987338,77.580531
+182,Canara Bank,bank,12.98699,77.578611
+183,ICICI Bank,bank,12.987651,77.579919
+184,Richie-Rich,restaurant,12.986823,77.580018
+185,Cafe Coffee Day,cafe,12.988534,77.577014
+186,Citibank,atm,12.987941,77.576849
+187,Canara Bank,bank,12.990965,77.574815
+188,Sri Maruthi hospital  Sheshadripuram,hospital,12.992644,77.574205
+189,Park-n-Eat,restaurant,12.9877,77.578269
+190,Office of the Commissioner of Railway Safety,office,12.980042,77.5798
+191,Śrī Uḍupi,restaurant,12.978182,77.579723
+192,HDFC Bank,atm,12.972578,77.570207
+193,Union Bank of India,atm,12.972321,77.570374
+194,Corporation Bank,atm,12.971281,77.570105
+195,Mādappa Mes,restaurant,12.98005,77.57711
+196,SRS Bus Station,bus_station,12.980379,77.57602
+197,VRL Bus Station,bus_station,12.980325,77.575473
+198,Hotel Janatha,restaurant,12.999143,77.571094
+199,Safal,shop_supermarket,12.99914,77.567835
+200,Apple Pharma,pharmacy,12.999782,77.568189
+201,ING,bank,12.970025,77.579959
+202,ICICI Bank,bank,12.973201,77.578927
+203,Coastal Express,restaurant,12.986791,77.579489
+204,Nayak Hospital  Gayathri Nagar,hospital,12.999386,77.56064
+205,Rajadhani restaurant,restaurant,12.978809,77.575008
+206,Nandini palace,restaurant,12.998549,77.58403
+207,Kamat Yatrinivas,restaurant,12.975882,77.578647
+208,Gandharva Upahāra,restaurant,12.978702,77.574235
+209,Vaidya Ratnam Ayurvedic Center,pharmacy,12.978589,77.573637
+210,Krantivira Sangolli Rayanna (Bengaluru),station,12.978174,77.56956
+211,Bangalore One,office,12.990442,77.56441
+212,KEB,office,12.990118,77.564503
+213,Hotel Sanman,restaurant,12.98415,77.578152
+214,DLish,restaurant,12.976596,77.570626
+215,Federal Bank,atm,12.974958,77.570315
+216,Adhishakthi,restaurant,12.972987,77.570013
+217,Egis Geoplan,office,12.987844,77.572418
+218,SBI General Insurance,office,12.987728,77.572416
+219,Swathi,restaurant,12.989161,77.572234
+220,State Bank of India,atm,12.989735,77.572046
+221,Citibank,atm,12.991671,77.571276
+222,Bhavani Tiffin Center,restaurant,12.98621,77.574138
+223,St. Marthas Canteen,restaurant,12.970125,77.586661
+224,INOX Malleshwaram - Mantri Square,cinema,12.992049,77.570628
+225,Bangalore Association for Science Education,office,12.984874,77.589599
+226,Department of Social Welfare,office,12.976617,77.587865
+227,Office of the Lokayukta,office,12.976957,77.588956
+228,India Post,post_office,12.976931,77.5886
+229,Syndicate Bank,bank,12.977501,77.588358
+230,BMTC Advance Reservation Counter,office,12.977435,77.588401
+231,Karnataka Government Secretariat Employees Association,office,12.97732,77.588458
+232,State Bank of India,bank,12.978283,77.587991
+233,Shanti Sagar,restaurant,12.973589,77.5784
+234,Sri Manjunatha Condiments,cafe,12.987602,77.573611
+235,BMTC Pass Issue Counter,office,12.977813,77.572554
+236,R. P. Kamats,restaurant,12.975924,77.574998
+237,Sukh Sagar,restaurant,12.976676,77.577718
+238,Al Bek,restaurant,12.994274,77.571582
+239,State Bank of India,bank,12.99851,77.57009
+240,Department of Geology And Mines,office,12.982677,77.585575
+241,Karnataka Bank,atm,12.977238,77.575299
+242,Kotak Mahindra Bank,atm,12.977364,77.574753
+243,CSB Bank,bank,12.974005,77.579463
+244,Bank of Baroda,bank,12.974068,77.579292
+245,Kempegowda Road,post_office,12.973572,77.580384
+246,Corporation Bank,bank,12.972974,77.58084
+247,Royal Afghan,restaurant,12.993918,77.585485
+248,Mainland China,restaurant,12.973917,77.570263
+249,Chandus Deluxe,restaurant,12.999211,77.572276
+250,New Fishland,restaurant,12.997296,77.571834
+251,Dr Solankis Eye Hospital,hospital,12.995163,77.573814
+252,Spar,shop_supermarket,12.991691,77.57073
+253,Oval bar,restaurant,12.991754,77.57113
+254,St. Marthas Heart Centre,hospital,12.970544,77.583477
+255,Gururaja Pharmacy,pharmacy,12.978112,77.573959
+256,Trust Pharmacy,pharmacy,12.991948,77.57085
+257,Desai Nursing Home,hospital,12.986374,77.579315
+258,State Bank of India,bank,12.991713,77.570884
+259,Hotel Moon Light,restaurant,12.996694,77.568723
+260,Gururaja Pharma,pharmacy,12.98583,77.570865
+261,Brindhavan pharma,pharmacy,12.985346,77.57081
+262,Rajhadhani Thali Restaurant,restaurant,12.991876,77.570154
+263,Iyer Mess,restaurant,12.998707,77.569905
+264,Prasad Medicals,pharmacy,12.990624,77.563316
+265,Kanva Diagnostics,pharmacy,12.986961,77.560226
+266,Antarastriya,restaurant,12.998234,77.570518
+267,Satvik Grand,restaurant,12.998541,77.569532
+268,A1 Biryani Restaurant,restaurant,12.996195,77.571592
+269,UP south,restaurant,12.991734,77.570617
+270,Kaya Skin Bar,pharmacy,12.991701,77.570653
+271,The Homoeo World,hospital,12.99472,77.571588
+272,State Bank of India,atm,12.971335,77.584547
+273,KPCL HRD Center  Shakti Bhavan,office,12.984076,77.579848
+274,STC Canteen,restaurant,12.975448,77.569925
+275,Punjab National Bank,atm,12.977148,77.570044
+276,STC loco pilot class room,office,12.976314,77.569613
+277,Supervisors Training College,office,12.976277,77.570043
+278,State Bank of India,atm,12.97738,77.569807
+279,Railway parcel office,office,12.974686,77.56938
+280,Indian Bank,atm,12.977214,77.570043
+281,Al-Bek,restaurant,12.996698,77.561332
+282,HDFC Bank,atm,12.996275,77.573348
+283,Allahabad Bank,bank,12.973336,77.579937
+284,Chandra Mouli Office - Race Course Road,office,12.986166,77.581925
+285,Karnataka Bank,atm,12.976739,77.570744
+286,Karnataka Bank,atm,12.97771,77.572247
+287,Sr Section Engineer Bridges Railway,office,12.976594,77.566622
+288,Indian Bank,bank,12.996669,77.57281
+289,Brindavan Pharma,pharmacy,12.99027,77.574415
+290,Corporation Bank,atm,12.987974,77.57645
+291,Mehta and Bothra Chartered Accountants,office,12.997828,77.569685
+292,NLR Groups,office,12.997827,77.569644
+293,Legis Link,office,12.997828,77.569605
+294,Axis Bank,atm,12.982186,77.566096
+295,HDFC Bank,bank,12.997125,77.586835
+296,Indian Overseas Bank,atm,12.997554,77.582158
+297,SVC Co-Operative Bank Ltd.,bank,12.99669,77.568632
+298,Karnataka Bank,bank,12.996785,77.562648
+299,Syndicate Bank,bank,12.996654,77.57027
+300,Canara Bank,bank,12.996684,77.57085
+301,Kotak Mahindra Bank,atm,12.989457,77.573529
+302,New Karavali Bar & Restaurant,restaurant,12.993553,77.571296
+303,Apollo Pharmacy,pharmacy,12.986707,77.579603
+304,Hotel Shreesagar,restaurant,12.974421,77.570877
+305,State Bank of India,atm,12.974359,77.571161
+306,State Bank of India,bank,12.989504,77.572125
+307,Office of the Accountant General,office,12.981888,77.587601
+308,AG Office (Audit),office,12.978957,77.588104
+309,ಉದ್ಯೋಗ ಸೌಧ,office,12.980617,77.58744
+310,Director Technical Education,office,12.978234,77.585268
+311,Vulcan International Insurance Brokers,office,12.986739,77.580112
+312,3 Page,restaurant,12.986617,77.579997
+313,Cafe Coffee Day,cafe,12.980292,77.577925
+314,Consulate General of France,office,12.992401,77.588759
+315,Hotel Sanman,restaurant,12.98679,77.574581
+316,South Canara Coffeehouse,cafe,12.972232,77.578799
+317,Aramane Donne Biriyani,restaurant,12.997907,77.569536
+318,The London Curry House,restaurant,12.985505,77.57924
+319,Majestic Bar & Restaurant,restaurant,12.974151,77.574914
+320,Sainath Office Needs,shop_stationery,12.97422,77.575193
+321,Kotak Mahindra Bank,bank,12.974032,77.575513
+322,Monissh Novelities,shop_stationery,12.974945,77.57582
+323,Central Bank of India,bank,12.975049,77.576145
+324,Srirampura,station,12.996525,77.563196
+325,State Bank of India,atm,12.975594,77.5753
+326,Prestige Deloitte,office,12.985961,77.587628
+327,ICICI Bank,atm,12.977201,77.573337
+328,Sir M. Visvesvaraya Stn.  Central College,station,12.97452,77.58422
+329,Nadaprabhu Kempegowda Station  Majestic,station,12.975708,77.572876
+330,Krantivira Sangolli Rayanna Railway Station,station,12.975877,77.565377
+331,Mantri Square Sampige Road,station,12.990463,77.570729
+332,Udupi Sri Krishna Bhavan,restaurant,12.971634,77.574102
+333,Hotel Sanman,restaurant,12.977562,77.574421
+334,Syndicate Bank,bank,12.982694,77.560727
+335,Majestic Hotel,restaurant,12.977415,77.574474
+336,Syndicate Bank,bank,12.974218,77.579346
+337,United Bank of India,bank,12.973434,77.580645
+338,Grand Majestic Mall,shop_mall,12.9774,77.576225
+339,Saint Martha Hospital Blood Bank,blood_bank,12.970678,77.58594
+340,Indian Red Cross Society - Karnataka Red Cross Blood Bank,blood_bank,12.984355,77.578704
+341,K. C. General Hospital Blood Bank,blood_bank,12.996044,77.569379
+342,Dr. B. Venkatasubbarao Memorial Hospital,hospital,12.998198,77.568151
+343,Jupiter Hospital And Institute Of Vascular Surgery,hospital,12.999846,77.566365
+344,Hitech Kidney Stone Hospital  Bengaluru Urban,hospital,12.98781,77.580983
+345,Samprathi Eye Hospital And Squint Centre,hospital,12.993281,77.580691
+346,Malleswaram Eye Day Care Hospital - Bengalore,hospital,12.996668,77.571604
+347,Mahaveer Eye Hospital Private Limited,hospital,12.993355,77.572959
+348,Bilva Hospital,hospital,12.998983,77.580202
+349,Amar Hospital,hospital,12.971182,77.578123
+350,Place Guttahalli Maternity Home,hospital,12.998824,77.581989
+351,Sreeniwasa Hospital,hospital,12.973271,77.572536
+352,Magadi Road Maternity Home,hospital,12.974125,77.561823
+353,mipl,office,12.996587,77.567822
+354,Corporation Bank,bank,12.99756,77.583759
+355,Karnataka State Government Medical Officers Association,office,12.97383,77.566038
+356,ICICI Bank,atm,12.973603,77.566253
+357,Karnataka Wine Board,office,12.975651,77.589638
+358,Annapurneshwari Canteen,restaurant,12.974171,77.588026
+359,Canara Bank,bank,12.996127,77.564482
+360,K.C. General Hospital,hospital,12.993382,77.569417
+361,Shopwel Mart,shop_supermarket,12.990736,77.587022
+362,Corporation Bank,atm,12.983537,77.58585
+363,Directorate of Tribal Welfare Department,office,12.984192,77.581598
+364,Aparna Enterprises Ltd.,office,12.98413,77.581356
+365,Micro Labs Limited,office,12.984302,77.578985
+366,State Bank of India,bank,12.982408,77.574771
+367,South Indian Bank,atm,12.971336,77.586755
+368,Axis Bank,bank,12.972042,77.583232
+369,Canara Bank,bank,12.972158,77.583065
+370,State Bank of India,bank,12.972294,77.582917
+371,Kotak Mahindra Bank,bank,12.973267,77.580081
+372,South Indian Bank,bank,12.974093,77.578238
+373,Manavarthapet Pregnancy Hospital,hospital,12.970255,77.573457
+374,ESI Hospital,hospital,12.972126,77.573351
+375,LORE,restaurant,12.980252,77.586147
+376,Tijuori,restaurant,12.980018,77.585971
+377,Orchids The International School - Majestic,school,12.972757,77.571681
+378,Corporation Bank,atm,12.992896,77.58978
+379,Axis Bank,atm,12.990191,77.560667
+380,Bank of Baroda,bank,12.998461,77.573029
+381,State Bank of India,bank,12.997768,77.571726
+382,Axis Bank,bank,12.996108,77.57948
+383,State Bank of India,bank,12.994039,77.577689
+384,Indian Bank,bank,12.993141,77.576713
+385,Corporation Bank,bank,12.992795,77.589806
+386,Axis Bank,bank,12.98,77.576
+387,Federal Bank,bank,12.976978,77.578898
+388,Supra Diagnostics Spine Care And Ortho Care Hospital,hospital,12.997,77.573004
+389,K.C.General Hospital,hospital,12.996024,77.569371
+390,Brik Oven,restaurant,12.985676,77.587868
+391,State Bank of India,atm,12.999959,77.56027
+392,State Bank of India,bank,12.984063,77.580813
+393,HDFC Bank,bank,12.984414,77.578281
+394,Water Monkey Cafe,cafe,12.99422,77.584323
+395,Sea Rock Restaurant,restaurant,12.986776,77.579668
+396,EZ Lynx,office,12.988882,77.575431
+397,The Rasoi,restaurant,12.989193,77.574474
+398,Dazzles and Drapes,office,12.992152,77.575213
+399,Jio,office,12.990467,77.588086
+400,STEGI,restaurant,12.99424,77.581471
+401,Restaurent1179,restaurant,12.993633,77.580928
+402,AWS,office,12.985802,77.587416
+403,AMD,office,12.985776,77.587627
+404,Desserted,cafe,12.992762,77.589294
+405,Angas Aeronautics India,office,12.994985,77.589132
+406,Mission Aerospace Foundation of India,office,12.995038,77.589157
+407,Genser Aerospace,office,12.995088,77.589177
+408,Nippon India Mutual Fund,office,12.995488,77.571297
+409,Hyderabadi Biryani,restaurant,12.993852,77.571378
+410,Tynimo,shop_supermarket,12.993568,77.571371
+411,Union Bank of India,bank,12.992807,77.571239
+412,Indian Overseas Bank,bank,12.997093,77.571599
+413,Spawn 3D,office,12.987749,77.575543
+414,Sri Govinda Rao Military Hotel,restaurant,12.972753,77.570233
+415,Office of the Controller of Communication Accounts,office,12.982586,77.587668
+416,ner.lu,cafe,12.98519,77.580671
+417,BMIC Planning Authority,office,12.981239,77.576635
+418,The Noodle Theory,restaurant,12.987332,77.580122
+419,Panchavati Chemists and Druggists,pharmacy,12.98669,77.579697
+420,National Insurance Company,office,12.988216,77.577585
+421,Saraswati Sangeet Vidyalaya,music_school,12.988032,77.576825
+422,Chalukya,shop_supermarket,12.987135,77.578442
+423,way2wealth,office,12.987684,77.572411
+424,Karnataka Pradesh Janata Dal (Secular),office,12.986016,77.571492
+425,Barbeque Nation,restaurant,12.981376,77.563286
+426,Starbucks,cafe,12.981177,77.563085
+427,Canara Bank,bank,12.996191,77.564024
+428,Cinepolis,cinema,12.981687,77.563283
+429,Bengaluru Secretariat Fire Station,fire_station,12.977764,77.588805
+430,Maayaa,restaurant,12.985922,77.587778
+431,DMart,shop_supermarket,12.975895,77.577464
+432,Lulu Hypermarket,shop_supermarket,12.981226,77.563381
+433,Canara Bank,bank,12.999063,77.573649
+434,Chilis,restaurant,12.98171,77.563616
+435,BBMP Citizen Services Center,office,12.997009,77.574421
+436,India Post,post_office,12.996969,77.574559
+437,Basaveshwara Khanavali,restaurant,12.999394,77.57225
+438,Panchayath Raj Commissionerate,office,12.97474,77.57808
+439,Commercial Tax Office,office,12.975035,77.578239
+440,Boba Tree,cafe,12.985735,77.587762
+441,Misu,restaurant,12.985679,77.587802
+442,Bank of Baroda,bank,12.984269,77.586576
+443,Bandhan Bank,bank,12.996614,77.580446
+444,Costa,cafe,12.98068,77.563584
+445,Chai Point,cafe,12.981282,77.563736
+446,Qmin,cafe,12.981872,77.563794
+447,Food Track,restaurant,12.977389,77.569412
+448,Davadost,pharmacy,12.977627,77.56959
+449,Pizza Hut,restaurant,12.981002,77.563086
+450,Punjab Grill,restaurant,12.981717,77.5637
+451,Utkarsh Small Finance Bank,bank,12.997834,77.569545
+452,Belaku Innovations Pvt. Ltd.,office,12.997991,77.569633
+453,Temple Meals,restaurant,12.998429,77.569537
+454,Axis Bank,bank,12.998542,77.569579
+455,Chaitra Investments,office,12.998549,77.56964
+456,Kadamba Veg,restaurant,12.976543,77.571763
+457,Samudra,restaurant,12.989032,77.575006
+458,Tandoori Taal,restaurant,12.985862,77.587773
+459,Meteorological Centre,office,12.976692,77.583922
+460,Desī Masālā,restaurant,12.97995,77.577115
+461,IDC Kitchen,restaurant,12.977611,77.577802
+462,Sai Grand,restaurant,12.979031,77.576292
+463,Bharaṇi Kafe,restaurant,12.978846,77.579426
+464,Priyadarśini,restaurant,12.977533,77.57581
+465,Kanteen,restaurant,12.979511,77.57484
+466,Chicken County,restaurant,12.97796,77.575257
+467,Sri Krishna Medicals,pharmacy,12.978102,77.575215
+468,Sri Kenchamba,restaurant,12.978369,77.576045
+469,Hotel Sagar,restaurant,12.977708,77.575345
+470,Amogh Medical,pharmacy,12.978341,77.575127
+471,State Bank of India,bank,12.976508,77.57598
+472,Amulya Veg Restaurant,restaurant,12.976677,77.576145
+473,Ashok Ahaar,restaurant,12.975816,77.575762
+474,Sri Maruthi Gowdas Military Hotel,restaurant,12.977121,77.576148
+475,Indian Overseas Bank,bank,12.976427,77.579471
+476,Union Bank of India,bank,12.978236,77.58084
+477,Department Pf Mechanical Engineering,office,12.975916,77.586691
+478,Royal Biriyani,restaurant,12.99018,77.57216
+479,Party Hall Restaurant,restaurant,12.990361,77.571955
+480,HDFC Bank,bank,12.998246,77.571023
+481,Punjab National Bank,bank,12.997686,77.570249
+482,Tea Time,cafe,12.996627,77.568001
+483,Yes Bank,bank,12.99824,77.571244
+484,Udupi Gardens,restaurant,12.997736,77.571514
+485,IDBI Bank,bank,12.99972,77.569202
+486,Access to Tokyo,office,12.985869,77.587625
+487,Bangalore One Citizen Service Centre,office,12.997009,77.567461
+488,ICICI Bank,bank,12.996304,77.587857
+489,Shanti Medicals,pharmacy,12.992448,77.575656
+490,Save More,shop_supermarket,12.993727,77.576979
+491,KBD Sugars and Distilleries Pvt. Ltd.,office,12.998296,77.584033
+492,Motilal Oswal,office,12.986263,77.58054
+493,NE Pharmacy,pharmacy,12.99326,77.571151
+494,Apple,office,12.990275,77.586393
+495,Sublime House of Tea,cafe,12.985794,77.587769
+496,Zed The Baker,cafe,12.985722,77.587928
+497,Starbucks,cafe,12.985948,77.587917
+498,Bathla Aluminium,office,12.994944,77.589401
+499,Electronic Relays India Pvt. Ltd.,office,12.994995,77.589421
+500,Oorvani Foundation,office,12.994798,77.589223
+501,Daksh Foundation,office,12.994813,77.589169
+502,KSIIDC,office,12.983311,77.585745
+503,The Drug Hut,pharmacy,12.998967,77.580012
+504,CnT Architects,office,12.996739,77.587317
+505,Bilva Pharmacy,pharmacy,12.998982,77.580285
+506,Central Bank of India,bank,12.9989,77.581152
+507,Office of the Chief Postmaster General,office,12.979298,77.585956
+508,Axis Bank,bank,12.974286,77.566349
+509,Rosenberger Interconnect India Private Limited,office,12.994565,77.589853
+510,AICTE Indovation Centre,office,12.973765,77.581139
+511,Drugs Control Department,office,12.982178,77.58622
+512,Commissioner of Treasuries,office,12.982096,77.58654
+513,HDFC Bank,bank,12.998248,77.570637
+514,The Malleshwaram Cooperative Bank,bank,12.998537,77.570488
+515,24/7,restaurant,12.992368,77.582064
+516,OKO,restaurant,12.992217,77.581981
+517,Baluchi,restaurant,12.992512,77.582137
+518,The Green Path,restaurant,12.990458,77.571973
+519,Canara Bank,bank,12.985511,77.578817
+520,Kotak Mahindra Bank,bank,12.999026,77.583908
+521,IDFC First Bank,bank,12.987502,77.580059
+522,Bossman Instruments Technology,office,12.988257,77.573683
+523,Be Luru,restaurant,12.997556,77.584202
+524,The Hyderabad Chefs,restaurant,12.986661,77.574289
+525,Karnataka State Human Rights Commission,office,12.978979,77.58719
+526,Veneta Cucine,restaurant,12.998813,77.58395
+527,Bellatrix Aerospace,office,12.996719,77.585014
+528,Aditya Birla,office,12.984716,77.586865
+529,Karnataka Power Corporation Limited,office,12.984207,77.586078
+530,Chalukya Samrat,restaurant,12.988547,77.577203
+531,Kalmane Koffees,cafe,12.992123,77.570313
+532,Starbucks,cafe,12.991358,77.571115
+533,Extra Chutney,restaurant,12.979026,77.577627
+534,Blanc The Coffee Place,cafe,12.985053,77.579106
+535,Chin Lung,restaurant,12.976245,77.578728
+536,Loya,restaurant,12.985011,77.58476
+537,Novyukthi Solutions Private Limited,office,12.996068,77.579588
+538,Garuda Mall Parking,parking,12.970381,77.609419
+539,Koshys,restaurant,12.975632,77.601476
+540,Hard Rock Cafe,restaurant,12.976226,77.601481
+541,The Only Place,restaurant,12.973244,77.60339
+542,Temple of The Senses,cafe,12.975103,77.602844
+543,Indian Coffee House,restaurant,12.97454,77.60525
+544,Shiro,restaurant,12.971852,77.596409
+545,Bowring Stall,cafe,12.975115,77.601415
+546,Kotak Mahindra Bank,bank,12.976218,77.599313
+547,Cafe Coffee Day,cafe,12.971782,77.594231
+548,IELTS Test Center,office,12.974201,77.597045
+549,Dhanlaxmi Bank,bank,12.975117,77.59762
+550,Yes Bank,bank,12.975652,77.597345
+551,Josco,office,12.975272,77.597872
+552,Bajaj,office,12.975596,77.598286
+553,Bird and Rabbit park,leisure_park,12.977007,77.596936
+554,Hotel Empire,restaurant,12.979839,77.602791
+555,ICICI Bank,bank,12.970682,77.599609
+556,Bank of India,bank,12.970863,77.60104
+557,Amruth Vegetarian Restaurant,restaurant,12.971194,77.600779
+558,Ebony,restaurant,12.975362,77.605164
+559,Ullas Refreshment,restaurant,12.974538,77.609603
+560,Highgates Hotel,restaurant,12.975375,77.602894
+561,Ruby Tuesday,restaurant,12.974685,77.605772
+562,Purple Haze,restaurant,12.972963,77.608605
+563,Paris Panini,restaurant,12.974756,77.605137
+564,India Post Museum Road,post_office,12.973043,77.603466
+565,Paramount Restaurant,restaurant,12.971167,77.605779
+566,Airlines,restaurant,12.972731,77.599718
+567,Rice Bowl,restaurant,12.974825,77.599433
+568,Mavalli Tiffin Rooms,restaurant,12.972176,77.600954
+569,Palm Grove,restaurant,12.97159,77.608498
+570,Sangam,restaurant,12.971893,77.606567
+571,F & B,restaurant,12.971312,77.599727
+572,Swagath ShankarNag Chitramandira,cinema,12.974414,77.609578
+573,Toscano,restaurant,12.971789,77.596237
+574,Cafe Noir,restaurant,12.971938,77.595875
+575,Coffee All Day,cafe,12.97339,77.607292
+576,Toscano,restaurant,12.97506,77.602857
+577,Three Quarter Chinese,restaurant,12.974503,77.605464
+578,Chutney Chang,restaurant,12.97378,77.602882
+579,Empire,restaurant,12.975404,77.602778
+580,Rotary Club,office,12.974264,77.599296
+581,Matteos Coffee,cafe,12.974351,77.607073
+582,Coconut Grove,restaurant,12.975285,77.604324
+583,Liftoff LLC India,office,12.973471,77.606461
+584,Shezan,restaurant,12.973681,77.59871
+585,High Court Canteen,restaurant,12.979048,77.593525
+586,High Court Post Office,post_office,12.977239,77.591522
+587,Church Street Social,restaurant,12.975762,77.602608
+588,Ayda,restaurant,12.974273,77.607273
+589,State Bank of India,atm,12.975798,77.604485
+590,Cafe Coffee Day,cafe,12.975745,77.604615
+591,Nilgiris,shop_supermarket,12.972863,77.607439
+592,Starbucks,cafe,12.974552,77.607336
+593,Meghana Foods,restaurant,12.972822,77.609182
+594,Citibank,atm,12.971861,77.59573
+595,Smoke House Deli,restaurant,12.97151,77.598326
+596,Life Insurance Corporation of India,office,12.976321,77.601949
+597,Canara Bank,atm,12.979172,77.593426
+598,Wenger & Watson,office,12.973744,77.60266
+599,Interface,office,12.973605,77.603305
+600,Abu Dhabi Commercial Bank,bank,12.975116,77.604033
+601,LGCL Thinking Spaces,office,12.975127,77.603973
+602,Global Retail School,office,12.97558,77.605293
+603,K&J Holdings,office,12.975791,77.604311
+604,State Bank of India,bank,12.975824,77.604349
+605,Karnataka State Pollution Control Board,office,12.975569,77.60349
+606,Canara Bank,bank,12.975421,77.604577
+607,UCO Bank,bank,12.97558,77.605326
+608,DTDC Couriers,office,12.975599,77.605267
+609,Max Life Insurance,office,12.975073,77.606798
+610,The Printers (Mysore) Pvt Ltd.,office,12.975438,77.606052
+611,Cafe Coffee Day,cafe,12.975459,77.606738
+612,Bheemas,restaurant,12.975186,77.603588
+613,The Lake Development Authority,office,12.975565,77.603529
+614,Mainland China,restaurant,12.975237,77.603421
+615,Oh! Calcutta,restaurant,12.975223,77.60352
+616,Hooked,restaurant,12.975558,77.603129
+617,Matsya,restaurant,12.975544,77.603196
+618,Bundle Company,restaurant,12.975615,77.602925
+619,Binny Mills Limited Textile Division,office,12.976145,77.603005
+620,Techshire Technologies Ltd,office,12.975808,77.602273
+621,Union Bank of India,bank,12.976184,77.602631
+622,Saint Gobain,office,12.976178,77.602656
+623,ICICI Pru Life,office,12.97299,77.608281
+624,Karavalli,restaurant,12.972069,77.60891
+625,Udupi Park,restaurant,12.97285,77.609197
+626,State Bank of India,bank,12.973052,77.608565
+627,Nagarjuna,restaurant,12.97323,77.609195
+628,Nitesh Infrastructure,office,12.976176,77.602894
+629,Punjab National Bank,atm,12.975213,77.608645
+630,The Oriental Insurance Co Ltd,office,12.974017,77.609197
+631,Juki Singapore Pte Ltd,office,12.974082,77.609116
+632,UNI Controls,office,12.974002,77.609109
+633,Consilient Technologies Pvt Ltd.,office,12.97404,77.609032
+634,Convergeon,office,12.973979,77.609135
+635,Encore Software Ltd,office,12.973966,77.609047
+636,Tapovan Builders,office,12.973981,77.609234
+637,State Bank of India,bank,12.97413,77.60955
+638,Chung Wah,restaurant,12.974067,77.609249
+639,Alldigi Tech Limited,office,12.973822,77.609245
+640,Donne Biryani House,restaurant,12.973298,77.609358
+641,Pay and Park,parking,12.97357,77.609722
+642,State Bank of India,bank,12.973131,77.608009
+643,Thorogood Associates India Pvt. Ltd.,office,12.973009,77.608232
+644,Verint Systems India,office,12.973126,77.608175
+645,SodaBottleOpenerWala,restaurant,12.970658,77.597535
+646,Dasaprakash,restaurant,12.976517,77.602975
+647,Kotak Mahindra Bank,atm,12.974844,77.608354
+648,SBI Mutual Fund Office,office,12.971966,77.604551
+649,Chariot,restaurant,12.971891,77.606684
+650,Indeed,office,12.975788,77.597343
+651,Deem Software India Pvt Ltd,office,12.975829,77.597387
+652,ICICI Venture,office,12.975828,77.597467
+653,Home interior designs e-commerce Pvt Ltd,office,12.975746,77.597393
+654,Livspace,office,12.975691,77.597461
+655,Rockwell automation,office,12.975757,77.597455
+656,Infor (Bangalore) Pvt Ltd,office,12.97576,77.597529
+657,Allergen,office,12.97568,77.597394
+658,JSA,office,12.975706,77.597338
+659,Internet & Print Out Xerox,internet_cafe,12.974635,77.605504
+660,Wolfish,restaurant,12.974367,77.607176
+661,Wiliam Penn,shop_stationery,12.970294,77.609785
+662,Citibank,atm,12.970233,77.609832
+663,HSBC,atm,12.970335,77.609358
+664,Nathans Vet Pharma Centre,pharmacy,12.976282,77.599102
+665,Hitesh Medicals & General Stor,pharmacy,12.971362,77.606244
+666,Canteen,restaurant,12.971216,77.603808
+667,Moti Sales Corporation,office,12.971847,77.594394
+668,Shimizu Corporte Pvt Ltd India,office,12.972843,77.599543
+669,united oxygen private ltd,office,12.970291,77.605272
+670,Mitsubishi Electric India Pvt Ltd,office,12.972803,77.5996
+671,United Minerals,office,12.971746,77.594426
+672,Cuepra Inc,office,12.970951,77.597329
+673,Snack dine meet,restaurant,12.97074,77.607081
+674,Shangri-la Plaza,restaurant,12.972895,77.607099
+675,Driven Cafe,cafe,12.972908,77.608499
+676,Federal Bank,bank,12.970794,77.600727
+677,Brigade Garden,restaurant,12.97314,77.607456
+678,Karnataka Silk International,office,12.974716,77.608795
+679,Mahatma Gandhi Road,station,12.975526,77.60679
+680,Dr. B. R. Ambedkar Station  Vidhana Soudha,station,12.978742,77.591639
+681,State Bank of India,bank,12.975383,77.603757
+682,eat.fit,restaurant,12.975122,77.604007
+683,Brik Oven,restaurant,12.974726,77.60532
+684,Chai Point,cafe,12.974665,77.606651
+685,Coast II Coast,restaurant,12.974625,77.607377
+686,saatvikk,restaurant,12.974364,77.607851
+687,Future Focus Infotech Pvt. Ltd.,office,12.973862,77.607683
+688,United Bank of India,bank,12.97377,77.607655
+689,Tea Trails,cafe,12.97293,77.607477
+690,Frozen Bottle,cafe,12.972829,77.607387
+691,CSB Bank,bank,12.971352,77.606545
+692,ASEAN - On The Edge,restaurant,12.975465,77.605062
+693,Le Bistro,restaurant,12.971878,77.596299
+694,Farzi Cafe,restaurant,12.972039,77.595646
+695,State Bank of India,atm,12.977466,77.591814
+696,Falconaris Solutions,office,12.975907,77.602415
+697,G7CR Technologies Pvt Ltd,office,12.976046,77.598771
+698,Yaks Kitchen,restaurant,12.973842,77.606845
+699,Mandarin Box,restaurant,12.9753,77.603196
+700,Burger Seigneur,restaurant,12.975217,77.602497
+701,Pākaśāla,restaurant,12.974733,77.608387
+702,Cafe Azzure,cafe,12.97501,77.607473
+703,India Post,post_office,12.974222,77.60994
+704,Raja Ravi Varma Heritage Foundation,office,12.974236,77.598784
+705,CABCS,office,12.975131,77.597681
+706,Amintri Cafe and Pastries,cafe,12.973722,77.603247
+707,Nexus Venture Partners,office,12.972876,77.600353
+708,Starbucks,cafe,12.97119,77.598206
+709,Brassa,restaurant,12.97052,77.600639
+710,Raahi Neo Kitchen and Bar,restaurant,12.973109,77.602346
+711,The Takshashila Institution,office,12.975671,77.60273
+712,Luckhnow Street,restaurant,12.97585,77.601898
+713,Canara Bank,bank,12.970798,77.597319
+714,AU Small Finance Bank,bank,12.971738,77.606402
+715,Condor Carbon,office,12.971744,77.605939
+716,Just BLR,cafe,12.97328,77.607258
+717,Artzo,shop_stationery,12.975746,77.602259
+718,State Bank of India,bank,12.975799,77.603083
+719,Pure Storage India,office,12.975353,77.601911
+720,Times Network,office,12.974839,77.60515
+721,Third Wave Coffee Roasters,cafe,12.974683,77.606711
+722,BPL Limited,office,12.974214,77.605798
+723,The Pizza Bakery,restaurant,12.975247,77.604584
+724,Karnataka Bank,bank,12.979692,77.605566
+725,Muthoot Finance,bank,12.979584,77.605594
+726,Axis Bank,bank,12.979922,77.605628
+727,Canara Bank,bank,12.979509,77.60607
+728,ICICI Bank,bank,12.979454,77.606211
+729,Department Of Sainik Welfare and Resettlement,office,12.970844,77.60504
+730,MIMS Builders,office,12.979763,77.605388
+731,The Merak Brewhouse,restaurant,12.972142,77.595139
+732,PVR Directors Cut,cinema,12.972654,77.606692
+733,Cantan,restaurant,12.970601,77.597521
+734,Kuuraku,restaurant,12.972793,77.606745
+735,Sly Granny,restaurant,12.972689,77.607019
+736,Dhaba - Estd 1986 Delhi,restaurant,12.97266,77.607009
+737,Cafe Delhi Heights,restaurant,12.972679,77.606957
+738,Foo,restaurant,12.972937,77.606404
+739,Burma Burma,restaurant,12.973001,77.606137
+740,Punjab Grill,restaurant,12.972957,77.606329
+741,Nandos,restaurant,12.972917,77.606474
+742,Forster Pharma,pharmacy,12.972088,77.60094
+743,Truffles,cafe,12.971744,77.600877
+744,Preqin,office,12.975444,77.59805
+745,One Night in Bangkok,restaurant,12.9722,77.596346
+746,Apple,office,12.971859,77.59567
+747,inGO,charging_station,12.971278,77.607883
+748,Misu,restaurant,12.970645,77.60066
+749,No. 10 Fort Cochin,restaurant,12.970673,77.600667
+750,The Konkan,restaurant,12.97593,77.601802
+751,Nandhini Deluxe,restaurant,12.971816,77.600895
+752,Jaisalmer,restaurant,12.971113,77.600618
+753,Blini Bistro,cafe,12.975061,77.604032
+754,Pride Cafe,cafe,12.973234,77.608862
+755,LUPA,restaurant,12.975598,77.604579
+756,Over Coffee,cafe,12.974959,77.599563
+757,Karims,restaurant,12.972187,77.600873
+758,MAP Cafe,cafe,12.974642,77.596743
+759,Öz by Kebapçi,restaurant,12.971609,77.59603
+760,Klava,cafe,12.972746,77.606786
+761,Canopy Restaurant,restaurant,12.974458,77.609943
+762,Daily Sushi,restaurant,12.975963,77.602613
+763,The Caffeine Baar,cafe,12.975761,77.602407
+764,Suryawanshi,restaurant,12.975504,77.601917
+765,Paragon,restaurant,12.97525,77.602356
+766,Chef Pillai,restaurant,12.970697,77.607135
+767,Bank of Maharashtra,bank,12.971032,77.606781
+768,Cumulus,restaurant,12.974485,77.596795
+769,Thenga Manga,restaurant,12.970624,77.607264
+770,Starbucks,cafe,12.972545,77.607352
+771,Fluence,office,12.975067,77.606321
+772,wegoo,office,12.975128,77.606341
+773,Qube Cafe,cafe,12.974807,77.606276
+774,Tadka Singh,restaurant,12.975465,77.602099
+775,Shenzhen Kitchen,restaurant,12.975482,77.60202
+776,The Museum by Suraj,office,12.975088,77.602921
+777,IndusInd Bank,bank,12.975185,77.602822
+778,Roomali,restaurant,12.975208,77.603183
+779,Inventus Law,office,12.97474,77.6052
+780,ZEST,restaurant,12.974726,77.59941
+781,Muro,restaurant,12.97456,77.603132
+782,Lime Light,cafe,12.976072,77.60261
+783,Smoor,cafe,12.972872,77.600275
+784,SatSure Analytics India Pvt Ltd,office,12.971205,77.607402
+785,Cafe Coffee Day,cafe,12.975568,77.60516
+786,3one4 Capital,office,12.975332,77.602039
+787,Dishkeyaun,restaurant,12.972754,77.606849
+788,Homiga,restaurant,12.972821,77.606676
+789,Queens Restaurant,restaurant,12.974731,77.606721
+790,bengawalk,office,12.975618,77.602735
+791,Cafe Levista,cafe,12.975148,77.606719
+792,Ouro,restaurant,12.972775,77.606803
+793,Third Wave Coffee Roasters,office,12.970477,77.607021
+794,bychance,restaurant,12.972836,77.607539
+795,Moglu,restaurant,12.975278,77.601778
+796,Sozo Skyline,restaurant,12.974698,77.597054
+797,The Living Room,cafe,12.973771,77.609242
+798,Shiv Sagar,restaurant,12.974458,77.609512
+799,Pearl Academy,prep_school,12.972608,77.60794
+800,Selec Hypermart,shop_supermarket,12.972815,77.607616
+801,RSP Design Consultants india Pvt. Ltd.,office,12.973518,77.602819
+802,Trilegal,office,12.97391,77.60175
+803,Hundredhands,office,12.973839,77.602273
+804,The News Minute,office,12.974059,77.602198
+805,HDFC Bank,bank,12.974414,77.606824
+806,Federal Bank,bank,12.974449,77.606712
+807,Shapoorji Pallonji,office,12.974083,77.609877
+808,Central City Corporation,office,12.974117,77.609927
+809,Karnataka Silk Industries Corporation Ltd.,office,12.974082,77.609977
+810,T Super Market,shop_supermarket,12.975075,77.604001
+811,Bank of Baroda,bank,12.974452,77.609863
+812,Kerala State Handicrafts Emporium,office,12.974283,77.609792
+813,Street Storyss,restaurant,12.9727,77.606916
+814,NCL Group,office,12.975929,77.603826
+815,ICICI Securities,office,12.975968,77.603634
+816,IndusInd Bank,bank,12.975936,77.603623
+817,Future Generali Total Insurance Solutions,office,12.975781,77.604384
+818,Union Bank of India,bank,12.975922,77.602619
+819,Algonomy,office,12.975273,77.59954
+820,Chowriappa Group,office,12.975004,77.599515
+821,Manjushree Capital Advisors,office,12.974278,77.598894
+822,Honrary Consulate of Mexico,office,12.974158,77.598889
+823,BCM Group,office,12.974239,77.59932
+824,Rainbow General Store,shop_supermarket,12.974173,77.598551
+825,Mysore Sales International Limited,office,12.973154,77.599044
+826,King & Partridge Advocates,office,12.973104,77.599035
+827,Longitude Constructions,office,12.972931,77.598942
+828,Kelachandra Group,office,12.976286,77.601541
+829,Vaishnavi,office,12.972173,77.597999
+830,IndiQube Grandeur,office,12.972599,77.598368
+831,Shardul Amarchand Mangaldas,office,12.972754,77.600352
+832,Savills,office,12.974623,77.597106
+833,Bhoruka Power Corporation Ltd.,office,12.973106,77.598995
+834,SKAV Developers Pvt. Ltd.,office,12.972985,77.598944
+835,Bhoruka Park Pvt. Ltd.,office,12.973227,77.599011
+836,India Chai,cafe,12.973473,77.607319
+837,Ghee Roast Company,restaurant,12.975413,77.602349
+838,Kazan Japanese Ramen,restaurant,12.97583,77.602066
+839,Third Wave Coffee,cafe,12.971777,77.595825
+840,Farah Builders Private Limited,office,12.97163,77.597118
+841,TTS India,office,12.971334,77.597425
+842,Synergia Foundation,office,12.971476,77.597435
+843,Botany Brew and Kitchen,restaurant,12.974652,77.597073
+844,GoPizza,restaurant,12.975622,77.605209
+845,11grams Coffee Roasters,cafe,12.971271,77.608012
+846,Condé Nast,office,12.973894,77.601964
+847,Samagata Foundation,office,12.975778,77.602689
+848,Green Onion,restaurant,12.973428,77.609345
+849,BESCOM O&M,office,12.973805,77.60903
+850,Si Nonnas,restaurant,12.973305,77.601921
+851,The White Room Coffee & Kitchen,cafe,12.975154,77.603168
+852,Kaippunyam Kerala Restaurant,restaurant,12.970748,77.606645
+853,Blue Tokai Coffee Roasters,cafe,12.971744,77.594397
+854,Sanchez,restaurant,12.971734,77.596346
+855,Badmaash,restaurant,12.972115,77.59631
+856,Tree Tops,restaurant,12.974698,77.59953
+857,Lokre Law,office,12.973487,77.608117
+858,Attys Express Cafe,cafe,12.97539,77.602846
+859,Levista Gourmet Studio,cafe,12.97477,77.606415
+860,Ferrara,restaurant,12.972711,77.606963
+861,Karma & Kurry,restaurant,12.97002,77.609329
+862,Consulate General of Switzerland,office,12.973259,77.605521
+863,Office Of The Executive Engineer  KPTCL,office,12.971757,77.604809
+864,Punjab National Bank,bank,12.971226,77.606804
+865,LIC Housing Finance Ltd.,office,12.970916,77.607489
+866,KoMaama,restaurant,12.971112,77.60682
+867,Canara Bank,bank,12.971289,77.60594
+868,ICICI Bank,bank,12.970525,77.599586
+869,PartTwo,restaurant,12.970907,77.597548
+870,Beyond Bean Cafe,cafe,12.972749,77.607541
+871,Basaveshwar Khanavali,restaurant,12.972868,77.609416
+872,Foodstories,shop_supermarket,12.972736,77.600274
+873,McKinsey & Company,office,12.975316,77.602144
+874,3M India,office,12.973752,77.601957
+875,Ernst and Young,office,12.97377,77.601742
+876,Krok Burgers,restaurant,12.972801,77.606799
+877,Downtown Diner,restaurant,12.973002,77.608678
+878,Kalmane Koffees,cafe,12.970114,77.609342
+879,Beyondburg Inc.,restaurant,12.971535,77.600845
+880,Riko,restaurant,12.971691,77.596071
+881,Tribal Brew Coffee,cafe,12.974669,77.605879
+882,Pinocchio,restaurant,12.972983,77.60621
+883,Julianas,restaurant,12.979908,77.607018
+884,Royal China,restaurant,12.972168,77.596481
+885,Nandhini Delux,restaurant,12.971649,77.600898
+886,Maverick and Farmer Coffee,cafe,12.975394,77.602421
+887,Jerome DSouza & Associates,office,12.971113,77.606704
+888,Loungeon Ventures LLP,office,12.971117,77.606742
+889,Sri Krishna Grand,restaurant,12.971385,77.606715
+890,Wave Tech,shop_stationery,12.9712,77.606841
+891,Unity Center,shop_stationery,12.970414,77.606543
+892,Vintage Adda,restaurant,12.973699,77.606628
+893,Madras Kitchen and The Bar,restaurant,12.972258,77.595155
+894,Geekonomy,office,12.97034,77.60874
+895,Yazu,restaurant,12.973316,77.601705
+896,Ishaara,restaurant,12.975267,77.601976
+897,MTR 1924,restaurant,12.972186,77.600921
+898,Kengeri Metro Station,metro,12.9075,77.4853
+899,Pattengere Metro,station,12.924336114037038,77.49845434330778
+900,Kengeri TTMC Bus Stand,bus_station,12.9068,77.4845
+901,Kengeri Market,market,12.9089,77.4861
+902,Global Mall Kengeri,mall,12.9123,77.4887
+903,Kengeri Satellite Town Bus Stand,bus_station,12.9156,77.4923
+904,RR Nagar Metro Station,metro,12.96,77.53
+905,Nayandahalli Junction,junction,12.95,77.55
+906,Electronic City Metro Station,metro,12.8456,77.6694
+907,Infosys Campus,office,12.8478,77.6689
+908,Wipro Technologies,office,12.8492,77.6715
+909,Huawei Technologies,office,12.8721,77.6892
+910,Electronic City Bus Terminal,bus_station,12.8594,77.6783
+911,Total Mall Electronic City,mall,12.8489,77.6721
+912,Innovative Multiplex,cinema,12.8512,77.6734
+913,ECity Convention Center,convention_center,12.85,77.67
+914,Phoenix Marketcity,mall,12.9954,77.6961
+915,UB City Mall,mall,12.9719,77.5938
+916,Orion Mall,mall,13.0045,77.6978
+917,Forum Mall Koramangala,mall,12.9356,77.6108
+918,Garuda Mall,mall,12.9712,77.6089
+919,Mantri Square Mall,mall,12.9915,77.5712
+920,VR Bengaluru,mall,12.9768,77.5967
+921,Bangalore Central,mall,12.9745,77.6056
+922,Gopalan Mall,mall,12.92,77.62
+923,Lulu Mall,mall,12.94,77.71
+924,MG Road Metro,metro,12.9758,77.5997
+925,Majestic Metro,metro,12.9789,77.5689
+926,Indiranagar Metro,metro,12.9784,77.6408
+927,Jayanagar Metro,metro,12.9408,77.5847
+928,Banashankari Metro,metro,12.9256,77.5689
+929,Yeshwantpur Metro,metro,13.0225,77.5578
+930,Silk Board Metro,metro,12.9178,77.6236
+931,KR Puram Metro,metro,13.0047,77.6961
+932,Mahatma Gandhi Road Metro,metro,12.9767,77.6083
+933,Cubbon Park Metro,metro,12.9762,77.5927
+934,Kempegowda Bus Station (Majestic),bus_station,12.9778,77.5678
+935,Shantinagar Bus Station,bus_station,12.9478,77.5889
+936,KR Market Bus Stand,bus_station,12.9633,77.5767
+937,Madiwala Bus Stand,bus_station,12.9228,77.6253
+938,BTM Layout Bus Stand,bus_station,12.9167,77.61
+939,Hebbal Bus Stand,bus_station,13.04,77.59
+940,Peenya Bus Stand,bus_station,13.0289,77.5136
+941,Yelahanka Bus Stand,bus_station,13.1036,77.5964
+942,Whitefield Bus Stand,bus_station,12.9697,77.7497
+943,Electronic City Phase 2 Bus Stand,bus_station,12.87,77.69
+944,Cubbon Park,park,12.9762,77.5927
+945,Lalbagh Botanical Garden,park,12.9507,77.5848
+946,Bannerghatta National Park,park,12.8003,77.5778
+947,Bangalore Palace,attraction,12.9987,77.5925
+948,ISKCON Temple,temple,13.0103,77.5511
+949,Bull Temple,temple,12.9422,77.5678
+950,St. Marys Basilica,church,12.9778,77.5919
+951,St. Josephs College,college,12.9352,77.6099
+952,Christ University,university,12.9342,77.6064
+953,NIMHANS,hospital,12.9431,77.5967
+954,Manipal Hospital,hospital,12.9664,77.5961
+955,Apollo Hospital,hospital,12.9595,77.6414
+956,Fortis Hospital,hospital,12.9044,77.6042
+957,Narayana Hrudayalaya,hospital,12.8731,77.5931
+958,Civil Department Building,office,12.924355517452945,77.49964847787506959,Gopalan Arcade Mall,mall,12.935805,77.518335
+960,BGS Gleneagles Global Hospitals,hospital,12.910628,77.48655
+961,Rajarajeshwari Medical College,college,12.8964,77.4619
+962,HK Hospital,hospital,12.9086,77.47842
+963,Shreya Hospital,hospital,12.915,77.485
+964,Whitefield (Kadugodi) Metro,station,12.9882,77.75
+965,Hopefarm Channasandra Metro,station,12.98793,77.75409
+966,Kadugodi Tree Park Metro,station,12.98565,77.7469
+967,Pattandur Agrahara Metro,station,12.9876,77.7382
+968,Sri Sathya Sai Hospital Metro,station,12.981,77.7276
+969,Nallurhalli Metro,station,12.9765,77.7247
+970,Kundalahalli Metro,station,12.9774,77.7157
+971,Seetharampalya Metro,station,12.9809,77.7088
+972,Hoodi Metro,station,12.9887,77.7112
+973,Garudacharpalya Metro,station,12.9935,77.7037
+974,Singayyanapalya Metro,station,12.9965,77.6927
+975,KR Pura Metro,station,13.0003,77.6766
+976,Benniganahalli Metro,station,12.9965,77.6682
+977,Baiyappanahalli Metro,station,12.9907,77.6524
+978,Swami Vivekananda Road Metro,station,12.9859,77.6449
+979,Indiranagar Metro,station,12.9718,77.6411
+980,Halasuru Metro,station,12.9765,77.6266
+981,Trinity Metro,station,12.9729,77.617
+982,MG Road Metro,station,12.9755,77.6068
+983,Cubbon Park Metro,station,12.981,77.5968
+984,Vidhana Soudha Metro,station,12.9798,77.5927
+985,Sir M Visvesvaraya Metro,station,12.9741,77.584
+986,Majestic Metro,station,12.9756,77.5728
+987,City Railway Station Metro,station,12.9781,77.5696
+988,Magadi Road Metro,station,12.9755,77.5554
+989,Hosahalli Metro,station,12.9741,77.5455
+990,Vijayanagara Metro,station,12.9708,77.5372
+991,Attiguppe Metro,station,12.9618,77.5335
+992,Deepanjali Nagar Metro,station,12.9587,77.51
+993,Mysore Road Metro,station,12.9465,77.5297
+994,Nayandahalli Metro,station,12.9468,77.5313
+995,Rajarajeshwari Nagar Metro,station,12.9367,77.5195
+996,Jnanabharathi Metro,station,12.9354,77.5124
+997,Pattanagere Metro,station,12.915,77.4947
+998,Kengeri Bus Terminal Metro,station,12.9148,77.4875
+999,Kengeri Metro,station,12.908,77.4765
+1000,Challaghatta Metro,station,12.8974,77.4612
+1001,RV Road Metro,station,12.9215,77.5802
+1002,Ragigudda Metro,station,12.917,77.5884
+1003,Jayadeva Hospital Metro,station,12.9167,77.6001
+1004,BTM Layout Metro,station,12.9165,77.6082
+1005,Central Silk Board Metro,station,12.9165,77.6205
+1006,Bommanahalli Metro,station,12.9106,77.6265
+1007,Hongasandra Metro,station,12.9016,77.632
+1008,Kudlu Gate Metro,station,12.8899,77.6392
+1009,Singasandra Metro,station,12.8806,77.6449
+1010,Hosa Road Metro,station,12.8707,77.6524
+1011,Beratena Agrahara Metro,station,12.8638,77.6579
+1012,Electronic City Metro,station,12.8464,77.6711
+1013,Infosys Foundation Metro,station,12.8564,77.6636
+1014,Huskur Road Metro,station,12.839,77.6775
+1015,Biocon Hebbagodi Metro,station,12.829,77.6813
+1016,Bommasandra Metro,station,12.8105,77.7002
+1017,Nagasandra Metro,station,13.0485,77.5015
+1018,Dasarahalli Metro,station,13.0435,77.5126
+1019,Jalahalli Metro,station,13.0371,77.5255
+1020,Peenya Metro,station,13.0329,77.5338
+1021,Goraguntepalya Metro,station,13.0285,77.5408
+1022,Yeshwanthpur Metro,station,13.0238,77.5503
+1023,Sandal Soap Factory Metro,station,13.0152,77.5539
+1024,Mahalakshmi Metro,station,13.0084,77.5557
+1025,Rajajinagar Metro,station,12.9982,77.5573
+1026,Kuvempu Road Metro,station,12.9922,77.5614
+1027,Srirampura Metro,station,12.9868,77.567
+1028,Mantri Square Sampige Road Metro,station,12.9906,77.5709
+1029,Chickpete Metro,station,12.9666,77.5746
+1030,KR Market Metro,station,12.9609,77.575
+1031,National College Metro,station,12.9505,77.5735
+1032,Lalbagh Metro,station,12.9463,77.5801
+1033,South End Circle Metro,station,12.9366,77.5828
+1034,Jayanagar Metro,station,12.9304,77.58
+1035,Banashankari Metro,station,12.9155,77.5736
+1036,JP Nagar Metro,station,12.9079,77.5727
+1037,Yelachenahalli Metro,station,12.895,77.57
+1038,Konankunte Cross Metro,station,12.8795,77.5668
+1039,Doddakallasandra Metro,station,12.872,77.5616
+1040,Vajarahalli Metro,station,12.8625,77.5516
+1041,Talaghattapura Metro,station,12.8546,77.5435
+1042,Silk Institute Metro,station,12.8447,77.5367
