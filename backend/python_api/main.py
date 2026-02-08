@@ -165,11 +165,15 @@ def search_pois(lat: float, lon: float, type: str = "all", radius: float = 5.0, 
 
 @app.get("/route")
 def get_route(start_lat: float, start_lon: float, end_lat: float, end_lon: float):
+    print(f"\n=== ROUTE REQUEST ===")
+    print(f"Start: ({start_lat}, {start_lon})")
+    print(f"End: ({end_lat}, {end_lon})")
+    
     CAMPUS_BOUNDS = {
         'lat_min': 12.9220,
-        'lat_max': 12.9250,
-        'lon_min': 77.4980,
-        'lon_max': 77.5010
+        'lat_max': 12.9245,
+        'lon_min': 77.5000,
+        'lon_max': 77.5020
     }
     
     def is_on_campus(lat, lon):
@@ -180,10 +184,12 @@ def get_route(start_lat: float, start_lon: float, end_lat: float, end_lon: float
     start_on_campus = is_on_campus(start_lat, start_lon)
     end_on_campus = is_on_campus(end_lat, end_lon)
     
-    if (start_on_campus and not end_on_campus) or (end_on_campus and not start_on_campus):
-        pass
+    print(f"Start on campus: {start_on_campus}")
+    print(f"End on campus: {end_on_campus}")
+    print(f"Both on campus: {both_on_campus}")
     
     if both_on_campus:
+        print("Using Dijkstra routing for on-campus route")
         try:
             path, dist_km = get_campus_route(start_lat, start_lon, end_lat, end_lon)
             
@@ -212,31 +218,14 @@ def get_route(start_lat: float, start_lon: float, end_lat: float, end_lon: float
             return results
         except Exception as e:
             print(f"Campus routing error: {e}")
-            dist_km = haversine(start_lat, start_lon, end_lat, end_lon)
-            walking_time = (dist_km / 5.0) * 60
-            cycling_time = (dist_km / 15.0) * 60
-            path = [[start_lat, start_lon], [end_lat, end_lon]]
-            
-            results = [
-                {
-                    "profile": "foot-walking",
-                    "label": "Walking (Direct)",
-                    "distance_km": round(dist_km, 2),
-                    "duration_min": round(walking_time, 1),
-                    "co2_grams": 0.0,
-                    "geometry": path
-                },
-                {
-                    "profile": "cycling-regular",
-                    "label": "Cycling (Direct)",
-                    "distance_km": round(dist_km, 2),
-                    "duration_min": round(cycling_time, 1),
-                    "co2_grams": 0.0,
-                    "geometry": path
-                }
-            ]
-            
-            return results
+            print("Falling back to ORS")
+    
+    if start_on_campus and not end_on_campus:
+        print("Using HYBRID routing: Campus to External (via ORS)")
+    elif end_on_campus and not start_on_campus:
+        print("Using HYBRID routing: External to Campus (via ORS)")
+    else:
+        print("Using OpenRouteService for external routing")
     
     profiles = {
         "driving-car": {"label": "Car", "emission_factor": 120.0},

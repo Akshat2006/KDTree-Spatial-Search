@@ -1,88 +1,148 @@
 CAMPUS_NODES = {
-    "rv_road_1": (12.924000, 77.500700),
-    "rv_road_2": (12.923600, 77.500900),
-    "rv_road_3": (12.923200, 77.501100),
-    "rv_road_4": (12.922800, 77.501300),
-    "rv_road_5": (12.922400, 77.501500),
+    # Main North-South Road (RV Road / Bangalore-Mysore Road side)
+    "rv_road_north": (12.9242, 77.5008),
+    "rv_road_1": (12.9240, 77.5007),
+    "rv_road_2": (12.9238, 77.5008),
+    "rv_road_3": (12.9236, 77.5009),
+    "rv_road_4": (12.9234, 77.5010),
+    "rv_road_5": (12.9232, 77.5011),
+    "rv_road_6": (12.9230, 77.5012),
+    "rv_road_7": (12.9228, 77.5013),
+    "rv_road_south": (12.9226, 77.5014),
     
-    "north_1": (12.924100, 77.500900),
-    "north_2": (12.923900, 77.501100),
-    "north_3": (12.923800, 77.501300),
+    # East-West Road 1 (Northern)
+    "ew_north_1": (12.9241, 77.5010),
+    "ew_north_2": (12.9241, 77.5012),
+    "ew_north_3": (12.9241, 77.5014),
+    "ew_north_4": (12.9241, 77.5016),
     
-    "central_hub_1": (12.923500, 77.500900),
-    "central_hub_2": (12.923400, 77.501000),
-    "central_hub_3": (12.923300, 77.501200),
-    "central_hub_4": (12.923200, 77.500800),
+    # East-West Road 2 (Central Upper)
+    "ew_central_1": (12.9236, 77.5008),
+    "ew_central_2": (12.9236, 77.5010),
+    "ew_central_3": (12.9236, 77.5012),
+    "ew_central_4": (12.9236, 77.5014),
+    "ew_central_5": (12.9236, 77.5016),
     
-    "east_1": (12.923300, 77.501500),
-    "east_2": (12.923000, 77.501600),
-    "east_3": (12.922700, 77.501700),
+    # East-West Road 3 (Central Middle)
+    "ew_mid_1": (12.9232, 77.5008),
+    "ew_mid_2": (12.9232, 77.5010),
+    "ew_mid_3": (12.9232, 77.5012),
+    "ew_mid_4": (12.9232, 77.5014),
+    "ew_mid_5": (12.9232, 77.5016),
     
-    "west_1": (12.923600, 77.500600),
-    "west_2": (12.923200, 77.500600),
-    "west_3": (12.923000, 77.500700),
-    "west_4": (12.922700, 77.500800),
+    # East-West Road 4 (Southern)
+    "ew_south_1": (12.9228, 77.5008),
+    "ew_south_2": (12.9228, 77.5010),
+    "ew_south_3": (12.9228, 77.5012),
+    "ew_south_4": (12.9228, 77.5014),
+    "ew_south_5": (12.9228, 77.5016),
     
-    "south_1": (12.922500, 77.501200),
-    "south_2": (12.922400, 77.501000),
-    "south_3": (12.922300, 77.500800),
-    "south_4": (12.922600, 77.500600),
+    # North-South Road 2 (Middle)
+    "ns_mid_1": (12.9241, 77.5012),
+    "ns_mid_2": (12.9238, 77.5012),
+    "ns_mid_3": (12.9235, 77.5012),
+    "ns_mid_4": (12.9232, 77.5012),
+    "ns_mid_5": (12.9229, 77.5012),
     
-    "biotech_area": (12.922500, 77.500400),
-    "gym_area": (12.922400, 77.500900),
-}
-
-CAMPUS_EXITS = {
-    "main_gate": (12.924100, 77.500800),
-    "pattanagere_metro": (12.924415, 77.498256),
-    "south_exit": (12.922200, 77.501600),
-    "east_exit": (12.923100, 77.501800),
+    # North-South Road 3 (Eastern)
+    "ns_east_1": (12.9241, 77.5015),
+    "ns_east_2": (12.9238, 77.5015),
+    "ns_east_3": (12.9235, 77.5015),
+    "ns_east_4": (12.9232, 77.5015),
+    "ns_east_5": (12.9229, 77.5015),
+    
+    # Campus Exits
+    "main_gate": (12.9241, 77.5008),
+    "pattanagere_metro_exit": (12.9241, 77.4985),
+    "south_exit": (12.9222, 77.5016),
+    "east_exit": (12.9231, 77.5018),
 }
 
 
 CAMPUS_EDGES = [
-    ("rv_road_1", "rv_road_2", 50),
-    ("rv_road_2", "rv_road_3", 50),
-    ("rv_road_3", "rv_road_4", 50),
-    ("rv_road_4", "rv_road_5", 50),
+    # Main North-South Road (RV Road)
+    ("rv_road_north", "rv_road_1", 25),
+    ("rv_road_1", "rv_road_2", 25),
+    ("rv_road_2", "rv_road_3", 25),
+    ("rv_road_3", "rv_road_4", 25),
+    ("rv_road_4", "rv_road_5", 25),
+    ("rv_road_5", "rv_road_6", 25),
+    ("rv_road_6", "rv_road_7", 25),
+    ("rv_road_7", "rv_road_south", 25),
     
-    ("north_1", "north_2", 35),
-    ("north_2", "north_3", 35),
-    ("rv_road_1", "north_1", 25),
-    ("rv_road_2", "north_2", 30),
+    # East-West Road 1 (Northern) connections
+    ("ew_north_1", "ew_north_2", 25),
+    ("ew_north_2", "ew_north_3", 25),
+    ("ew_north_3", "ew_north_4", 25),
     
-    ("central_hub_1", "central_hub_2", 25),
-    ("central_hub_2", "central_hub_3", 30),
-    ("central_hub_3", "central_hub_4", 30),
-    ("central_hub_4", "central_hub_1", 35),
+    # East-West Road 2 (Central Upper) connections
+    ("ew_central_1", "ew_central_2", 25),
+    ("ew_central_2", "ew_central_3", 25),
+    ("ew_central_3", "ew_central_4", 25),
+    ("ew_central_4", "ew_central_5", 25),
     
-    ("rv_road_2", "central_hub_1", 20),
-    ("rv_road_3", "central_hub_2", 20),
-    ("rv_road_3", "central_hub_3", 25),
+    # East-West Road 3 (Central Middle) connections
+    ("ew_mid_1", "ew_mid_2", 25),
+    ("ew_mid_2", "ew_mid_3", 25),
+    ("ew_mid_3", "ew_mid_4", 25),
+    ("ew_mid_4", "ew_mid_5", 25),
     
-    ("central_hub_3", "east_1", 25),
-    ("east_1", "east_2", 40),
-    ("east_2", "east_3", 35),
-    ("north_3", "east_1", 30),
+    # East-West Road 4 (Southern) connections
+    ("ew_south_1", "ew_south_2", 25),
+    ("ew_south_2", "ew_south_3", 25),
+    ("ew_south_3", "ew_south_4", 25),
+    ("ew_south_4", "ew_south_5", 25),
     
-    ("rv_road_1", "west_1", 20),
-    ("rv_road_2", "west_1", 25),
-    ("west_1", "west_2", 35),
-    ("west_2", "west_3", 30),
-    ("west_3", "west_4", 35),
-    ("central_hub_4", "west_2", 25),
+    # North-South Road 2 (Middle) connections
+    ("ns_mid_1", "ns_mid_2", 25),
+    ("ns_mid_2", "ns_mid_3", 25),
+    ("ns_mid_3", "ns_mid_4", 25),
+    ("ns_mid_4", "ns_mid_5", 25),
     
-    ("rv_road_4", "south_1", 30),
-    ("rv_road_5", "south_2", 25),
-    ("south_1", "south_2", 40),
-    ("south_2", "south_3", 35),
-    ("south_3", "south_4", 40),
+    # North-South Road 3 (Eastern) connections
+    ("ns_east_1", "ns_east_2", 25),
+    ("ns_east_2", "ns_east_3", 25),
+    ("ns_east_3", "ns_east_4", 25),
+    ("ns_east_4", "ns_east_5", 25),
     
-    ("south_3", "biotech_area", 30),
-    ("south_4", "biotech_area", 25),
-    ("biotech_area", "gym_area", 35),
-    ("south_2", "gym_area", 40),
+    # Intersections - RV Road with East-West roads
+    ("rv_road_north", "ew_north_1", 15),
+    ("rv_road_3", "ew_central_1", 15),
+    ("rv_road_5", "ew_mid_1", 15),
+    ("rv_road_7", "ew_south_1", 15),
+    
+    # Intersections - Middle NS Road with East-West roads  
+    ("ns_mid_1", "ew_north_2", 15),
+    ("ew_central_3", "ns_mid_3", 15),
+    ("ew_mid_3", "ns_mid_4", 15),
+    ("ew_south_3", "ns_mid_5", 15),
+    
+    # Intersections - Eastern NS Road with East-West roads
+    ("ns_east_1", "ew_north_3", 15),
+    ("ew_central_4", "ns_east_3", 15),
+    ("ew_mid_4", "ns_east_4", 15),
+    ("ew_south_4", "ns_east_5", 15),
+    
+    # Campus Exit Connections
+    ("main_gate", "rv_road_north", 20),
+    ("main_gate", "ew_north_1", 25),
+    
+    ("pattanagere_metro_exit", "rv_road_north", 200),
+    
+    ("south_exit", "rv_road_south", 60),
+    ("south_exit", "ew_south_5", 45),
+    
+    ("east_exit", "ew_mid_5", 30),
+    ("east_exit", "ns_east_4", 40),
 ]
+
+
+CAMPUS_EXITS = {
+    "main_gate": (12.9241, 77.5008),
+    "pattanagere_metro_exit": (12.9241, 77.4985),
+    "south_exit": (12.9222, 77.5016),
+    "east_exit": (12.9231, 77.5018),
+}
 
 
 BUILDING_TO_NODE = {

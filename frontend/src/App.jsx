@@ -137,24 +137,7 @@ function App() {
     if (useCustomLocation && customLocation) {
       setLocation(customLocation)
     } else if (userLocation) {
-      const isOnCampus = (lat, lon) => {
-        const CAMPUS_BOUNDS = {
-          lat_min: 12.9220,
-          lat_max: 12.9250,
-          lon_min: 77.4980,
-          lon_max: 77.5010
-        }
-        return (lat >= CAMPUS_BOUNDS.lat_min && lat <= CAMPUS_BOUNDS.lat_max &&
-          lon >= CAMPUS_BOUNDS.lon_min && lon <= CAMPUS_BOUNDS.lon_max)
-      }
-
-      if (isOnCampus(userLocation.lat, userLocation.lon)) {
-        const MAIN_GATE = { lat: 12.924050, lon: 77.500750 }
-        console.log('On campus - snapping to Main Gate')
-        setLocation(MAIN_GATE)
-      } else {
-        setLocation(userLocation)
-      }
+      setLocation(userLocation)
     }
   }, [useCustomLocation, customLocation, userLocation])
 
@@ -261,11 +244,7 @@ function App() {
             <div className="text-xs text-yellow-400">👆 Click map to set start point</div>
           ) : userLocation ? (
             <div className="text-xs text-green-400">
-              {location.lat === 12.924050 && location.lon === 77.500750 ? (
-                <div>🏫 Main Gate (On Campus)</div>
-              ) : (
-                <div>✓ {userLocation.lat.toFixed(6)}, {userLocation.lon.toFixed(6)}</div>
-              )}
+              ✓ {userLocation.lat.toFixed(6)}, {userLocation.lon.toFixed(6)}
             </div>
           ) : (
             <div className="text-xs text-yellow-400">📍 Getting location...</div>

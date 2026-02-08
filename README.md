@@ -112,7 +112,18 @@ ORS_API_KEY=your_actual_api_key_here
 
 ### Option 1: Docker (Recommended for Production)
 
-**Quick Start:**
+**Easiest Way - Using Scripts:**
+
+```bash
+# Windows
+docker-start.bat
+
+# Linux/Mac
+chmod +x docker-start.sh
+./docker-start.sh
+```
+
+**Manual Docker Setup:**
 
 1. Configure environment:
 ```bash
@@ -134,6 +145,7 @@ docker-compose up --build
 - Start: `docker-compose up -d`
 - Stop: `docker-compose down`
 - View logs: `docker-compose logs -f`
+- Rebuild: `docker-compose up --build`
 
 📘 **Full Docker documentation**: See [DOCKER.md](DOCKER.md) for detailed setup, troubleshooting, and architecture.
 
