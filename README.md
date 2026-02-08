@@ -4,11 +4,11 @@ An intelligent Point-of-Interest (POI) discovery and route planning application 
 
 ## Features
 
-- **🔍 Advanced Spatial Search**: KD-Tree implementation in C for efficient POI discovery
-- **🚶 Eco-Friendly Routing**: CO₂ emission tracking for different transport modes
-- **🏫 Campus Navigation**: Custom Dijkstra-based pathfinding for RV University campus
-- **📍 Smart Location**: GPS integration with automatic campus detection
-- **⚡ Dual Search Modes**: Radius-based and K-Nearest Neighbor (KNN) search
+- **Advanced Spatial Search**: KD-Tree implementation in C for efficient POI discovery
+- **Eco-Friendly Routing**: CO₂ emission tracking for different transport modes
+- **Campus Navigation**: Custom Dijkstra-based pathfinding for RV University campus
+- **Smart Location**: GPS integration with automatic campus detection
+- **Dual Search Modes**: Radius-based and K-Nearest Neighbor (KNN) search
 
 ## Architecture
 
